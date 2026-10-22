@@ -1,0 +1,6 @@
+{
+  "name": "Bhoomi - Digital Land Registry & Cadastral Portal",
+  "description": "Civic cadastre management system designed for transparent deed verification, plot boundary tracking, and real-time land record lookup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
